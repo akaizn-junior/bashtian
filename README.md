@@ -1,5 +1,5 @@
 # Bashtian v0.1.0
-Some basic bash scripts. Install it and have the following commands available to you.
+Some basic bash scripts. Install and use the following commands.
 
 * gitit
 * full-update
